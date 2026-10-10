@@ -1,0 +1,3 @@
+CREATE DATABASE shopify_db
+    WITH
+    ENCODING = 'UTF8';
